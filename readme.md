@@ -33,7 +33,7 @@ npm start
 https://github.com/duxianwei520/resource/blob/master/react/node_modules.rar
 
 ```
-欢迎下载
+欢迎下载  Welcome to download
 
 ## screenshots
 
